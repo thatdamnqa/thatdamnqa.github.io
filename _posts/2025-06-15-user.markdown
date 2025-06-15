@@ -1,11 +1,10 @@
-
-—
+---
 layout: post
 title: “User”
 date:   2025-06-15 00:00:00 +0000
 categories: blog
 tags: testing, requirements
-—
+---
 
 I don’t like the term “user” when talking in the context of testing and requirements. It’s too vague of a term, and it doesn’t tell you what the person might be thinking or expecting from the product.
 
