@@ -1,0 +1,44 @@
+
+—
+layout: post
+title: “User”
+date:   2025-06-15 00:00:00 +0000
+categories: blog
+tags: testing, requirements
+—
+
+I don’t like the term “user” when talking in the context of testing and requirements. It’s too vague of a term, and it doesn’t tell you what the person might be thinking or expecting from the product.
+
+Try forcing yourself to use another word instead. It might make you think more about the feature in question.
+
+Why not try:
+* Customer
+* Client
+* Bill-payer
+* Account holder
+* Operator
+* Reader
+* Poster
+* Viewer
+* Listener
+* Player
+* Streamer
+* Message sender
+* Message receiver
+* Caller
+* Child
+* Parent/Guardian
+* Teacher
+* Student
+* Reporter
+* Engineer
+* Technician
+* Subscriber
+* Moderator
+* Administrator
+* Photographer
+* Athlete
+* Planner
+* Customer service assistant
+* Shopper
+* Person who wants to use your product to do bad things
